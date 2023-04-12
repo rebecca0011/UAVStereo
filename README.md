@@ -35,26 +35,26 @@ Data root
 |-Forest
 |-Mining
 |-Residential
-|--train
-|--test
-|---Eights(960*540px)
-|---Quarters(1960*1080px)
-|---Half(3840*2160px)
-|----**-Baseline-15
-|----**-Baseline-16
- ...
-|----**-Baseline-35
-|-----ImageLeft
-|------000*_L.png
-...
-|-----ImageRight
-|------000*_R.png
-...
-|-----DispLeft
-|------000*_L.pfm
-...
-|-----DispRight
-|------000*_R.pfm
-...
+    |--train
+    |--test
+        |---Eights(960*540px)
+        |---Quarters(1960*1080px)
+        |---Half(3840*2160px)
+            |----**-Baseline-15
+            |----**-Baseline-16
+             ...
+            |----**-Baseline-35
+                      |-----ImageLeft
+                              |------000*_L.png
+                              ...
+                      |-----ImageRight
+                              |------000*_R.png
+                              ...
+                      |-----DispLeft
+                              |------000*_L.pfm
+                              ...
+                      |-----DispRight
+                              |------000*_R.pfm
+                              ...
  
 ```
