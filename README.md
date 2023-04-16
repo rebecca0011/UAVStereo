@@ -2,32 +2,27 @@
 [UAVStereo](https://ieeexplore.ieee.org/document/10070843) is a multiple resolution dataset for stereo matching in UAV scenarios. The dataset provides multi-resolution and multi-scene image pairs to accommodate various sensors and environments.
 
 ## Download 
-Coming soon!
+Baiduyun
 Samples
 
-Forest Eights(960*540px)
+Forest Eights(960*540px) [train](https://pan.baidu.com/s/1fhjedXMeZAnUBQJvM8tJ7w?pwd=1111)  [test](https://pan.baidu.com/s/1EnugvES-mYyAzC5F-cY4xw?pwd=1111)
 
-Mining Eights(960*540px)
+Mining Eights(960*540px) [train](https://pan.baidu.com/s/1OuKa7U43N65b4pkYgUBK6g?pwd=1111)  [test](https://pan.baidu.com/s/1AbqIyS9OIKfwkSO4wFdxtA?pwd=1111)
 
-Residential Eights(960*540px)
+Residential Eights(960*540px) [train]  [test]
 
-Forest Quarters(1960*1080px)
+Forest Quarters(1960*1080px) [train](https://pan.baidu.com/s/1itBzts02dpTfrf2SAlyMTA?pwd=1111)  [test](https://pan.baidu.com/s/1oUmyhYg7Sh_sTe4eus45WQ?pwd=1111)
 
-Mining Quarters(1960*1080px)
+Mining Quarters(1960*1080px) [train](https://pan.baidu.com/s/1gsYRExUY71UngWQodGsJMA?pwd=1111)  [test](https://pan.baidu.com/s/1GgVPgIyQJnFUqDo6Sh3FAQ?pwd=1111)
 
-Residential Quarters(1960*1080px)
+Residential Quarters(1960*1080px) [train]  [test]
 
-Forest Half(3840*2160px)
+Forest Half(3840*2160px) [train](https://pan.baidu.com/s/1D7k1INt-98wHLifK1PgwLA?pwd=1111)  [test](https://pan.baidu.com/s/1FLHMHbFJzBa0rOGUavg1dw?pwd=1111)
 
-Mining Half(3840*2160px)
+Mining Half(3840*2160px) [train](https://pan.baidu.com/s/1TGAYf3-Q6FLnhM6nQeyHSw?pwd=1111)  [test](https://pan.baidu.com/s/1MKJeLn6SBFqjyeHlyo4WwQ?pwd=1111)
 
-Residential Half(3840*2160px)
+Residential Half(3840*2160px) [train]  [test]
 
-Forest Origin
-
-Mining Origin
-
-Residential Origin
 
 Whole UAVStereo
 
