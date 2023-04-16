@@ -3,7 +3,6 @@
 
 ## Download 
 Baiduyun
-Samples
 
 Forest Eights(960*540px) [train](https://pan.baidu.com/s/1fhjedXMeZAnUBQJvM8tJ7w?pwd=1111)  [test](https://pan.baidu.com/s/1EnugvES-mYyAzC5F-cY4xw?pwd=1111)
 
