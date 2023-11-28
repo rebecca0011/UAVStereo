@@ -10,7 +10,7 @@ Forest Eights(960*540px) [train](https://pan.baidu.com/s/1fhjedXMeZAnUBQJvM8tJ7w
 
 Mining Eights(960*540px) [train](https://pan.baidu.com/s/1OuKa7U43N65b4pkYgUBK6g?pwd=1111)  [test](https://pan.baidu.com/s/1AbqIyS9OIKfwkSO4wFdxtA?pwd=1111)
 
-Residential Eights(960*540px) [train](https://pan.baidu.com/s/1XyB2vxfTzlsnK-VhBiMljw?pwd=1111)  [test]([https://pan.baidu.com/s/1qUiRYrMU7JhNauaItwQTPQ?pwd=1111](https://drive.google.com/file/d/1k0r7mmux7zLdZ5LPIdBzGJ9xXEQ0mN3_/view?usp=sharing))
+Residential Eights(960*540px) [train](https://pan.baidu.com/s/1XyB2vxfTzlsnK-VhBiMljw?pwd=1111)  [test](https://drive.google.com/file/d/1k0r7mmux7zLdZ5LPIdBzGJ9xXEQ0mN3_/view?usp=sharing)
 
 
 
