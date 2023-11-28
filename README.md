@@ -3,27 +3,14 @@
 
 ## Download 
 Baiduyun Link
+[Whole UAVStereo](https://pan.baidu.com/s/1TVdsFE_V3LRfezuNmTzADQ?pwd=1111)
 
+Google Drive
 Forest Eights(960*540px) [train](https://pan.baidu.com/s/1fhjedXMeZAnUBQJvM8tJ7w?pwd=1111)  [test](https://pan.baidu.com/s/1EnugvES-mYyAzC5F-cY4xw?pwd=1111)
 
 Mining Eights(960*540px) [train](https://pan.baidu.com/s/1OuKa7U43N65b4pkYgUBK6g?pwd=1111)  [test](https://pan.baidu.com/s/1AbqIyS9OIKfwkSO4wFdxtA?pwd=1111)
 
-Residential Eights(960*540px) [train](https://pan.baidu.com/s/1XyB2vxfTzlsnK-VhBiMljw?pwd=1111)  [test](https://pan.baidu.com/s/1qUiRYrMU7JhNauaItwQTPQ?pwd=1111)
-
-Forest Quarters(1960*1080px) [train](https://pan.baidu.com/s/1itBzts02dpTfrf2SAlyMTA?pwd=1111)  [test](https://pan.baidu.com/s/1oUmyhYg7Sh_sTe4eus45WQ?pwd=1111)
-
-Mining Quarters(1960*1080px) [train](https://pan.baidu.com/s/1gsYRExUY71UngWQodGsJMA?pwd=1111)  [test](https://pan.baidu.com/s/1GgVPgIyQJnFUqDo6Sh3FAQ?pwd=1111)
-
-Residential Quarters(1960*1080px) [train](https://pan.baidu.com/s/19SNu7NMrMY0ojAxvMYug2w?pwd=1111)  [test](https://pan.baidu.com/s/12gH6x_nSBtp0-1mOLYLbRQ?pwd=1111)
-
-Forest Half(3840*2160px) [train](https://pan.baidu.com/s/1D7k1INt-98wHLifK1PgwLA?pwd=1111)  [test](https://pan.baidu.com/s/1FLHMHbFJzBa0rOGUavg1dw?pwd=1111)
-
-Mining Half(3840*2160px) [train](https://pan.baidu.com/s/1TGAYf3-Q6FLnhM6nQeyHSw?pwd=1111)  [test](https://pan.baidu.com/s/1MKJeLn6SBFqjyeHlyo4WwQ?pwd=1111)
-
-Residential Half(3840*2160px) [train](https://pan.baidu.com/s/1HEPFht0mj1NszpCLe3eKOg?pwd=1111)  [test](https://pan.baidu.com/s/1RdNv2aTKafsYEBRxfYKG2g?pwd=1111)
-
-
-[Whole UAVStereo](https://pan.baidu.com/s/1TVdsFE_V3LRfezuNmTzADQ?pwd=1111)
+Residential Eights(960*540px) [train](https://pan.baidu.com/s/1XyB2vxfTzlsnK-VhBiMljw?pwd=1111)  [test]([https://pan.baidu.com/s/1qUiRYrMU7JhNauaItwQTPQ?pwd=1111](https://drive.google.com/file/d/1k0r7mmux7zLdZ5LPIdBzGJ9xXEQ0mN3_/view?usp=sharing))
 
 
 
